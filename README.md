@@ -13,6 +13,14 @@ Use this data for your server DB.
 Run json-server --watch db.json to start the backend.
 Test your server by visiting http://localhost:8001/transactions.
 
+Setup
+After unbundling the project:
+
+Run npm install in your terminal.
+Run npm run server. This will run your backend on port 8001.
+In a new terminal, run npm start. This will run your React app on port 8000.
+Make sure to open http://localhost:8001/transactions in the browser to verify that your backend is working before you proceed!
+
 
 Project Setup
 Create a new project folder.
